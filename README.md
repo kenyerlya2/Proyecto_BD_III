@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Proyecto Hospital Domingo Luciani
 
+=======
+# Proyecto_BD_III
+Desarrollo de un módulo para registro y consultas de historias medicas del hospital Domingo Luciani.
+>>>>>>> 9c20bd3f9791a8e330146eff48d267d8c8972a29
 Sistema de gestión de pacientes y citas médicas desarrollado con Node.js y MongoDB.
 
 ## Requisitos
@@ -18,4 +23,8 @@ Sistema de gestión de pacientes y citas médicas desarrollado con Node.js y Mon
 - GET `/pacientes/:cedula` : Buscar uno (Consulta sencilla).
 - POST `/pacientes` : Crear uno nuevo.
 - PUT `/pacientes/:id` : Actualizar por ID.
+<<<<<<< HEAD
 - DELETE `/pacientes/:id` : Eliminar por ID.s
+=======
+- DELETE `/pacientes/:id` : Eliminar por ID.s
+>>>>>>> 9c20bd3f9791a8e330146eff48d267d8c8972a29
